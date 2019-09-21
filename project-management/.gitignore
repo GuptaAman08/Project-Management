@@ -11,6 +11,9 @@
 # production
 /build
 /src/configs
+/functions/node_modules
+/.firebase
+/dist
 
 # misc
 .DS_Store
